@@ -19,8 +19,8 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayasri-karthikeyan-634085321/"><img src="https://img.shields.io/badge/LinkedIn-KishoreR-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:jayasriselvi23@gmail.com"><img src="https://img.shields.io/badge/Email-kishorer03%40example.com-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jayasri-karthikeyan-634085321/"><img src="https://img.shields.io/badge/LinkedIn-JayaSri-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:jayasriselvi23@gmail.com"><img src="https://img.shields.io/badge/Email-JayaSri%40example.com-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
