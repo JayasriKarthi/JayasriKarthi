@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #ff6f61;">Hi there, I'm JayaSri👋</h1>
 
-<p align="center" style="color: #c9d1d9;">I am a Computer Science student with a passion for coding and technology. I love exploring new programming languages and frameworks, and I'm particularly interested in machine learning, etc. Through my projects, I aim to create innovative solutions and enhance my skills. Always eager to learn and collaborate, feel free to reach out if you want to connect!</p>
+<p align="center" style="color: #c9d1d9;">I am a Computer Science student with a passion for coding and technology. I love exploring new programming languages and frameworks, and I'm particularly interested in backend development, etc. Through my projects, I aim to create innovative solutions and enhance my skills. Always eager to learn and collaborate, feel free to reach out if you want to connect!</p>
 
 
 
